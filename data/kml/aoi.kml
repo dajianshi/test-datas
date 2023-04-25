@@ -1,0 +1,34 @@
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 https://developers.google.com/kml/schema/kml22gx.xsd">
+	<Document>
+		<Placemark>
+			<name>区块-1</name>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>-72.1581,41.5111 -71.9512,41.47749999999999 -71.9965,41.3201 -72.2029,41.3537 -72.1581,41.5111</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>区块-2</name>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>-72.1176,41.65270000000001 -71.9102,41.6191 -71.9557,41.46179999999998 -72.1625,41.495300000000015 -72.1176,41.65270000000001</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>J区块-3</name>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>-72.1901,41.447100000000006 -71.9587,41.414199999999994 -72.0023,41.24950000000001 -72.2331,41.28229999999999 -72.1901,41.447100000000006</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Document>
+</kml>

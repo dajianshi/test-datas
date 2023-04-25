@@ -1,0 +1,1711 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx version="1.1" creator="ZNet">
+  <trk>
+    <trkseg>
+      <extensions>
+        <SIM1>true</SIM1>
+        <SIM2>true</SIM2>
+        <alwaysSingleSIM>false</alwaysSingleSIM>
+      </extensions>
+      <trkpt lat="31.9410515" lon="118.8261001">
+        <ele>81.6</ele>
+        <time>2023-02-24T07:48:06Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>15.194930076599121</accuracy>
+          <speed>24.09</speed>
+          <direction>331.8900146484375</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9412279" lon="118.8259888">
+        <ele>79.9</ele>
+        <time>2023-02-24T07:48:06Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>14.537370681762695</accuracy>
+          <speed>24.22</speed>
+          <direction>326.8900146484375</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9417602" lon="118.8255268">
+        <ele>78.0</ele>
+        <time>2023-02-24T07:48:08Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>14.5393705368042</accuracy>
+          <speed>24.26</speed>
+          <direction>315.20001220703125</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9420251" lon="118.8251397">
+        <ele>75.0</ele>
+        <time>2023-02-24T07:48:10Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>14.928095817565918</accuracy>
+          <speed>24.0</speed>
+          <direction>305.5</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9422542" lon="118.8247065">
+        <ele>74.2</ele>
+        <time>2023-02-24T07:48:12Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>14.97472095489502</accuracy>
+          <speed>24.05</speed>
+          <direction>295.7900085449219</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9423728" lon="118.8242351">
+        <ele>71.9</ele>
+        <time>2023-02-24T07:48:14Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>14.822205543518066</accuracy>
+          <speed>24.02</speed>
+          <direction>286.6000061035156</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9424655" lon="118.8237388">
+        <ele>71.4</ele>
+        <time>2023-02-24T07:48:16Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>14.733264923095703</accuracy>
+          <speed>23.95</speed>
+          <direction>274.3900146484375</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9424872" lon="118.8232280">
+        <ele>68.7</ele>
+        <time>2023-02-24T07:48:18Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>14.99666690826416</accuracy>
+          <speed>24.0</speed>
+          <direction>266.20001220703125</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9424343" lon="118.8227239">
+        <ele>68.1</ele>
+        <time>2023-02-24T07:48:20Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>15.034402847290039</accuracy>
+          <speed>23.88</speed>
+          <direction>263.3900146484375</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9423189" lon="118.8222431">
+        <ele>72.3</ele>
+        <time>2023-02-24T07:48:22Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>15.482181549072266</accuracy>
+          <speed>24.55</speed>
+          <direction>253.10000610351562</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9421481" lon="118.8218009">
+        <ele>70.8</ele>
+        <time>2023-02-24T07:48:24Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"638"},{"key":"NR-CI","value":"43219013635(10551517-3)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>15.216424942016602</accuracy>
+          <speed>23.44</speed>
+          <direction>241.88999938964844</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9419067" lon="118.8213828">
+        <ele>70.9</ele>
+        <time>2023-02-24T07:48:26Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"636"},{"key":"NR-CI","value":"43219013633(10551517-1)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>15.5963134765625</accuracy>
+          <speed>24.44</speed>
+          <direction>234.60000610351562</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9416074" lon="118.8210002">
+        <ele>72.2</ele>
+        <time>2023-02-24T07:48:28Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"636"},{"key":"NR-CI","value":"43219013633(10551517-1)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>17.55701446533203</accuracy>
+          <speed>24.26</speed>
+          <direction>230.10000610351562</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9412663" lon="118.8207510">
+        <ele>75.6</ele>
+        <time>2023-02-24T07:48:30Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"636"},{"key":"NR-CI","value":"43219013633(10551517-1)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>22.142269134521484</accuracy>
+          <speed>23.68</speed>
+          <direction>215.3000030517578</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9408752" lon="118.8204704">
+        <ele>75.3</ele>
+        <time>2023-02-24T07:48:32Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"636"},{"key":"NR-CI","value":"43219013633(10551517-1)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>27.662527084350586</accuracy>
+          <speed>25.05</speed>
+          <direction>208.3000030517578</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9404399" lon="118.8202709">
+        <ele>75.9</ele>
+        <time>2023-02-24T07:48:34Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"638"},{"key":"NR-CI","value":"43219013635(10551517-3)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>30.086027145385742</accuracy>
+          <speed>25.6</speed>
+          <direction>201.19000244140625</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9395553" lon="118.8201037">
+        <ele>75.1</ele>
+        <time>2023-02-24T07:48:38Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"638"},{"key":"NR-CI","value":"43219013635(10551517-3)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>34.985679626464844</accuracy>
+          <speed>25.21</speed>
+          <direction>189.3000030517578</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9390765" lon="118.8201533">
+        <ele>74.5</ele>
+        <time>2023-02-24T07:48:40Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"638"},{"key":"NR-CI","value":"43219013635(10551517-3)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>32.10261154174805</accuracy>
+          <speed>25.69</speed>
+          <direction>176.60000610351562</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9386445" lon="118.8202793">
+        <ele>73.8</ele>
+        <time>2023-02-24T07:48:42Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"638"},{"key":"NR-CI","value":"43219013635(10551517-3)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>31.059633255004883</accuracy>
+          <speed>24.5</speed>
+          <direction>166.3000030517578</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9382343" lon="118.8204530">
+        <ele>73.1</ele>
+        <time>2023-02-24T07:48:44Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"638"},{"key":"NR-CI","value":"43219013635(10551517-3)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>34.58098220825195</accuracy>
+          <speed>24.03</speed>
+          <direction>159.5</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9378849" lon="118.8207528">
+        <ele>73.0</ele>
+        <time>2023-02-24T07:48:46Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"638"},{"key":"NR-CI","value":"43219013635(10551517-3)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>31.8442440032959</accuracy>
+          <speed>23.62</speed>
+          <direction>147.10000610351562</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9375446" lon="118.8211871">
+        <ele>74.3</ele>
+        <time>2023-02-24T07:48:48Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"638"},{"key":"NR-CI","value":"43219013635(10551517-3)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>32.62702178955078</accuracy>
+          <speed>23.6</speed>
+          <direction>135.38999938964844</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9372608" lon="118.8215996">
+        <ele>73.9</ele>
+        <time>2023-02-24T07:48:50Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"638"},{"key":"NR-CI","value":"43219013635(10551517-3)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>34.0552864074707</accuracy>
+          <speed>23.86</speed>
+          <direction>125.5</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9370962" lon="118.8221022">
+        <ele>73.3</ele>
+        <time>2023-02-24T07:48:52Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"638"},{"key":"NR-CI","value":"43219013635(10551517-3)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>35.538612365722656</accuracy>
+          <speed>23.51</speed>
+          <direction>108.30000305175781</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9370374" lon="118.8224869">
+        <ele>72.2</ele>
+        <time>2023-02-24T07:48:54Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"638"},{"key":"NR-CI","value":"43219013635(10551517-3)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>40.54041290283203</accuracy>
+          <speed>21.79</speed>
+          <direction>101.58999633789062</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9369733" lon="118.8230978">
+        <ele>71.2</ele>
+        <time>2023-02-24T07:48:56Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"638"},{"key":"NR-CI","value":"43219013635(10551517-3)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>44.94879913330078</accuracy>
+          <speed>24.76</speed>
+          <direction>92.80000305175781</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9369738" lon="118.8235458">
+        <ele>70.7</ele>
+        <time>2023-02-24T07:48:58Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"416"},{"key":"NR-CI","value":"42953752578(10486756-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>47.13328170776367</accuracy>
+          <speed>22.95</speed>
+          <direction>86.0</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9369993" lon="118.8241741">
+        <ele>69.8</ele>
+        <time>2023-02-24T07:49:00Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"416"},{"key":"NR-CI","value":"42953752578(10486756-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>50.301849365234375</accuracy>
+          <speed>24.94</speed>
+          <direction>77.80000305175781</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9371882" lon="118.8245363">
+        <ele>71.0</ele>
+        <time>2023-02-24T07:49:02Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"638"},{"key":"NR-CI","value":"43219013635(10551517-3)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>56.84359359741211</accuracy>
+          <speed>22.23</speed>
+          <direction>51.400001525878906</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9373884" lon="118.8250387">
+        <ele>70.6</ele>
+        <time>2023-02-24T07:49:04Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"638"},{"key":"NR-CI","value":"43219013635(10551517-3)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>54.92399597167969</accuracy>
+          <speed>23.19</speed>
+          <direction>65.69000244140625</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9376521" lon="118.8254770">
+        <ele>68.8</ele>
+        <time>2023-02-24T07:49:06Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"417"},{"key":"NR-CI","value":"42953752577(10486756-1)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>58.816158294677734</accuracy>
+          <speed>24.13</speed>
+          <direction>61.290000915527344</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9385230" lon="118.8260672">
+        <ele>67.2</ele>
+        <time>2023-02-24T07:49:10Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"417"},{"key":"NR-CI","value":"42953752577(10486756-1)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>48.03264236450195</accuracy>
+          <speed>24.43</speed>
+          <direction>35.900001525878906</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9389239" lon="118.8262784">
+        <ele>66.5</ele>
+        <time>2023-02-24T07:49:12Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"638"},{"key":"NR-CI","value":"43219013635(10551517-3)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>48.15959167480469</accuracy>
+          <speed>23.48</speed>
+          <direction>27.600000381469727</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9393370" lon="118.8264379">
+        <ele>66.1</ele>
+        <time>2023-02-24T07:49:14Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"638"},{"key":"NR-CI","value":"43219013635(10551517-3)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>49.45399475097656</accuracy>
+          <speed>23.38</speed>
+          <direction>18.889999389648438</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9396285" lon="118.8266451">
+        <ele>65.0</ele>
+        <time>2023-02-24T07:49:16Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"638"},{"key":"NR-CI","value":"43219013635(10551517-3)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>46.03135299682617</accuracy>
+          <speed>22.07</speed>
+          <direction>11.800000190734863</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9400187" lon="118.8266807">
+        <ele>65.1</ele>
+        <time>2023-02-24T07:49:18Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"638"},{"key":"NR-CI","value":"43219013635(10551517-3)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>47.205562591552734</accuracy>
+          <speed>22.32</speed>
+          <direction>1.2000000476837158</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9404692" lon="118.8265541">
+        <ele>64.3</ele>
+        <time>2023-02-24T07:49:20Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"638"},{"key":"NR-CI","value":"43219013635(10551517-3)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>49.620506286621094</accuracy>
+          <speed>22.71</speed>
+          <direction>349.0</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9408303" lon="118.8265260">
+        <ele>64.8</ele>
+        <time>2023-02-24T07:49:22Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"638"},{"key":"NR-CI","value":"43219013635(10551517-3)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>51.25065994262695</accuracy>
+          <speed>20.81</speed>
+          <direction>341.2900085449219</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9411408" lon="118.8263876">
+        <ele>64.3</ele>
+        <time>2023-02-24T07:49:24Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"638"},{"key":"NR-CI","value":"43219013635(10551517-3)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>59.44477462768555</accuracy>
+          <speed>19.34</speed>
+          <direction>332.8900146484375</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9415182" lon="118.8260733">
+        <ele>63.5</ele>
+        <time>2023-02-24T07:49:26Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"638"},{"key":"NR-CI","value":"43219013635(10551517-3)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>69.06250762939453</accuracy>
+          <speed>19.89</speed>
+          <direction>320.8900146484375</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9417971" lon="118.8257347">
+        <ele>63.5</ele>
+        <time>2023-02-24T07:49:28Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"638"},{"key":"NR-CI","value":"43219013635(10551517-3)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>69.26664733886719</accuracy>
+          <speed>20.62</speed>
+          <direction>310.2900085449219</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9420834" lon="118.8251448">
+        <ele>61.7</ele>
+        <time>2023-02-24T07:49:30Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"638"},{"key":"NR-CI","value":"43219013635(10551517-3)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>48.86579513549805</accuracy>
+          <speed>23.85</speed>
+          <direction>306.0</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9423919" lon="118.8244902">
+        <ele>66.1</ele>
+        <time>2023-02-24T07:49:32Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"638"},{"key":"NR-CI","value":"43219013635(10551517-3)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>35.087799072265625</accuracy>
+          <speed>24.0</speed>
+          <direction>295.6000061035156</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9425199" lon="118.8239231">
+        <ele>60.3</ele>
+        <time>2023-02-24T07:49:34Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"416"},{"key":"NR-CI","value":"42953752578(10486756-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>29.539226531982422</accuracy>
+          <speed>23.78</speed>
+          <direction>282.5</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9425417" lon="118.8233619">
+        <ele>62.5</ele>
+        <time>2023-02-24T07:49:36Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"416"},{"key":"NR-CI","value":"42953752578(10486756-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>24.801931381225586</accuracy>
+          <speed>24.27</speed>
+          <direction>271.0</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9424930" lon="118.8228663">
+        <ele>59.7</ele>
+        <time>2023-02-24T07:49:38Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"416"},{"key":"NR-CI","value":"42953752578(10486756-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>24.477529525756836</accuracy>
+          <speed>23.82</speed>
+          <direction>260.7900085449219</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9421514" lon="118.8219549">
+        <ele>40.1</ele>
+        <time>2023-02-24T07:49:42Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"638"},{"key":"NR-CI","value":"43219013635(10551517-3)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>17.548139572143555</accuracy>
+          <speed>23.87</speed>
+          <direction>238.60000610351562</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9419371" lon="118.8215108">
+        <ele>39.9</ele>
+        <time>2023-02-24T07:49:44Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"638"},{"key":"NR-CI","value":"43219013635(10551517-3)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>18.271501541137695</accuracy>
+          <speed>24.56</speed>
+          <direction>239.0</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9416921" lon="118.8210872">
+        <ele>40.2</ele>
+        <time>2023-02-24T07:49:46Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"416"},{"key":"NR-CI","value":"42953752578(10486756-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>24.619625091552734</accuracy>
+          <speed>24.27</speed>
+          <direction>236.38999938964844</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9413259" lon="118.8208110">
+        <ele>39.8</ele>
+        <time>2023-02-24T07:49:48Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"416"},{"key":"NR-CI","value":"42953752578(10486756-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>22.137794494628906</accuracy>
+          <speed>24.11</speed>
+          <direction>212.38999938964844</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9409480" lon="118.8205345">
+        <ele>38.0</ele>
+        <time>2023-02-24T07:49:50Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"638"},{"key":"NR-CI","value":"43219013635(10551517-3)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>18.748214721679688</accuracy>
+          <speed>24.04</speed>
+          <direction>206.69000244140625</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9405464" lon="118.8203225">
+        <ele>39.9</ele>
+        <time>2023-02-24T07:49:52Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"637"},{"key":"NR-CI","value":"43219013634(10551517-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>16.123571395874023</accuracy>
+          <speed>23.97</speed>
+          <direction>197.3000030517578</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9401000" lon="118.8202412">
+        <ele>34.6</ele>
+        <time>2023-02-24T07:49:54Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-51"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-76"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"637"},{"key":"NR-CI","value":"43219013634(10551517-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"RSRP_2","value":"-99"},{"key":"RSRQ_2","value":"-18"}]</cellular>
+          <accuracy>15.624452590942383</accuracy>
+          <speed>23.95</speed>
+          <direction>190.38999938964844</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9396623" lon="118.8202086">
+        <ele>36.8</ele>
+        <time>2023-02-24T07:49:56Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"}]</cellular>
+          <accuracy>15.101025581359863</accuracy>
+          <speed>23.9</speed>
+          <direction>182.3000030517578</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9392495" lon="118.8202618">
+        <ele>37.7</ele>
+        <time>2023-02-24T07:49:58Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"}]</cellular>
+          <accuracy>14.841105461120605</accuracy>
+          <speed>24.02</speed>
+          <direction>172.8000030517578</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9388259" lon="118.8204008">
+        <ele>35.4</ele>
+        <time>2023-02-24T07:50:01Z</time>
+        <extensions>
+          <cellular>[]</cellular>
+          <accuracy>15.186019897460938</accuracy>
+          <speed>23.93</speed>
+          <direction>160.10000610351562</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9382550" lon="118.8207638">
+        <ele>32.8</ele>
+        <time>2023-02-24T07:50:03Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-57"},{"key":"SINR","value":"14.0"},{"key":"RSRP","value":"-86"},{"key":"RSRQ","value":"-7"}]</cellular>
+          <accuracy>14.08226203918457</accuracy>
+          <speed>23.95</speed>
+          <direction>149.38999938964844</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9379126" lon="118.8210656">
+        <ele>33.6</ele>
+        <time>2023-02-24T07:50:05Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-57"},{"key":"SINR","value":"13.0"},{"key":"RSRP","value":"-87"},{"key":"RSRQ","value":"-9"}]</cellular>
+          <accuracy>14.011845588684082</accuracy>
+          <speed>24.0</speed>
+          <direction>138.88999938964844</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9376230" lon="118.8214170">
+        <ele>36.4</ele>
+        <time>2023-02-24T07:50:07Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-57"},{"key":"SINR","value":"13.0"},{"key":"RSRP","value":"-87"},{"key":"RSRQ","value":"-9"}]</cellular>
+          <accuracy>13.915853500366211</accuracy>
+          <speed>24.0</speed>
+          <direction>129.69000244140625</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9373888" lon="118.8218289">
+        <ele>37.8</ele>
+        <time>2023-02-24T07:50:09Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-57"},{"key":"SINR","value":"13.0"},{"key":"RSRP","value":"-87"},{"key":"RSRQ","value":"-9"}]</cellular>
+          <accuracy>13.766059875488281</accuracy>
+          <speed>24.01</speed>
+          <direction>119.80000305175781</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9372096" lon="118.8222942">
+        <ele>38.6</ele>
+        <time>2023-02-24T07:50:11Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-57"},{"key":"SINR","value":"13.0"},{"key":"RSRP","value":"-87"},{"key":"RSRQ","value":"-9"}]</cellular>
+          <accuracy>13.666858673095703</accuracy>
+          <speed>24.05</speed>
+          <direction>110.9000015258789</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9370347" lon="118.8232606">
+        <ele>44.4</ele>
+        <time>2023-02-24T07:50:15Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-57"},{"key":"SINR","value":"13.0"},{"key":"RSRP","value":"-87"},{"key":"RSRQ","value":"-9"}]</cellular>
+          <accuracy>14.516860008239746</accuracy>
+          <speed>23.84</speed>
+          <direction>82.4000015258789</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9370557" lon="118.8237567">
+        <ele>47.5</ele>
+        <time>2023-02-24T07:50:17Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-57"},{"key":"SINR","value":"13.0"},{"key":"RSRP","value":"-87"},{"key":"RSRQ","value":"-9"}]</cellular>
+          <accuracy>15.135372161865234</accuracy>
+          <speed>23.88</speed>
+          <direction>77.58999633789062</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9371481" lon="118.8242451">
+        <ele>49.2</ele>
+        <time>2023-02-24T07:50:19Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-57"},{"key":"SINR","value":"13.0"},{"key":"RSRP","value":"-87"},{"key":"RSRQ","value":"-9"}]</cellular>
+          <accuracy>17.68720245361328</accuracy>
+          <speed>23.85</speed>
+          <direction>70.4000015258789</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9373011" lon="118.8246973">
+        <ele>51.3</ele>
+        <time>2023-02-24T07:50:21Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-57"},{"key":"SINR","value":"13.0"},{"key":"RSRP","value":"-87"},{"key":"RSRQ","value":"-9"}]</cellular>
+          <accuracy>22.452983856201172</accuracy>
+          <speed>23.44</speed>
+          <direction>63.0</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9374890" lon="118.8251149">
+        <ele>53.4</ele>
+        <time>2023-02-24T07:50:23Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-57"},{"key":"SINR","value":"13.0"},{"key":"RSRP","value":"-87"},{"key":"RSRQ","value":"-9"}]</cellular>
+          <accuracy>31.559955596923828</accuracy>
+          <speed>23.19</speed>
+          <direction>65.9000015258789</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9376867" lon="118.8255288">
+        <ele>55.0</ele>
+        <time>2023-02-24T07:50:25Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-57"},{"key":"SINR","value":"13.0"},{"key":"RSRP","value":"-87"},{"key":"RSRQ","value":"-9"}]</cellular>
+          <accuracy>43.61831283569336</accuracy>
+          <speed>22.6</speed>
+          <direction>61.5</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9378887" lon="118.8259167">
+        <ele>56.3</ele>
+        <time>2023-02-24T07:50:27Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-57"},{"key":"SINR","value":"13.0"},{"key":"RSRP","value":"-87"},{"key":"RSRQ","value":"-9"}]</cellular>
+          <accuracy>50.23670196533203</accuracy>
+          <speed>22.06</speed>
+          <direction>59.59000015258789</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9379744" lon="118.8263341">
+        <ele>54.3</ele>
+        <time>2023-02-24T07:50:29Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-57"},{"key":"SINR","value":"13.0"},{"key":"RSRP","value":"-87"},{"key":"RSRQ","value":"-9"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"}]</cellular>
+          <accuracy>45.205902099609375</accuracy>
+          <speed>20.82</speed>
+          <direction>63.290000915527344</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9384414" lon="118.8264980">
+        <ele>53.3</ele>
+        <time>2023-02-24T07:50:31Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-57"},{"key":"SINR","value":"13.0"},{"key":"RSRP","value":"-87"},{"key":"RSRQ","value":"-9"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"20953"},{"key":"PCI","value":"320"},{"key":"ECI","value":"84112674(328565-34)"},{"key":"Band Width","value":"10 MHz"},{"key":"EARFCN","value":"3590/21590"},{"key":"BAND","value":"8 FDD"},{"key":"FREQ","value":"939/894 MHz"},{"key":"RSSI","value":"-63"},{"key":"SINR","value":"-1.0"},{"key":"RSRP","value":"-95"},{"key":"RSRQ","value":"-13"}]</cellular>
+          <accuracy>39.50397872924805</accuracy>
+          <speed>21.34</speed>
+          <direction>40.400001525878906</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9390590" lon="118.8265165">
+        <ele>51.8</ele>
+        <time>2023-02-24T07:50:33Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-57"},{"key":"SINR","value":"13.0"},{"key":"RSRP","value":"-87"},{"key":"RSRQ","value":"-9"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"20953"},{"key":"PCI","value":"320"},{"key":"ECI","value":"84112674(328565-34)"},{"key":"Band Width","value":"10 MHz"},{"key":"EARFCN","value":"3590/21590"},{"key":"BAND","value":"8 FDD"},{"key":"FREQ","value":"939/894 MHz"},{"key":"RSSI","value":"-63"},{"key":"SINR","value":"-1.0"},{"key":"RSRP","value":"-95"},{"key":"RSRQ","value":"-13"}]</cellular>
+          <accuracy>27.312101364135742</accuracy>
+          <speed>23.95</speed>
+          <direction>11.890000343322754</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9394934" lon="118.8265294">
+        <ele>48.7</ele>
+        <time>2023-02-24T07:50:35Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"20953"},{"key":"PCI","value":"320"},{"key":"ECI","value":"84112674(328565-34)"},{"key":"Band Width","value":"10 MHz"},{"key":"EARFCN","value":"3590/21590"},{"key":"BAND","value":"8 FDD"},{"key":"FREQ","value":"939/894 MHz"},{"key":"RSSI","value":"-63"},{"key":"SINR","value":"-1.0"},{"key":"RSRP","value":"-95"},{"key":"RSRQ","value":"-13"}]</cellular>
+          <accuracy>19.490644454956055</accuracy>
+          <speed>24.39</speed>
+          <direction>0.6899999976158142</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9399371" lon="118.8264728">
+        <ele>48.5</ele>
+        <time>2023-02-24T07:50:37Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"20953"},{"key":"PCI","value":"178"},{"key":"ECI","value":"84112682(328565-42)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1309/19309"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1815.9/1720.9 MHz"},{"key":"RSSI","value":"-63"},{"key":"SINR","value":"-1.0"},{"key":"RSRP","value":"-95"},{"key":"RSRQ","value":"-13"}]</cellular>
+          <accuracy>16.815467834472656</accuracy>
+          <speed>24.03</speed>
+          <direction>351.20001220703125</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9403571" lon="118.8263501">
+        <ele>50.0</ele>
+        <time>2023-02-24T07:50:39Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"20953"},{"key":"PCI","value":"178"},{"key":"ECI","value":"84112682(328565-42)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1309/19309"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1815.9/1720.9 MHz"},{"key":"RSSI","value":"-63"},{"key":"SINR","value":"-1.0"},{"key":"RSRP","value":"-95"},{"key":"RSRQ","value":"-13"}]</cellular>
+          <accuracy>15.826309204101562</accuracy>
+          <speed>24.1</speed>
+          <direction>342.20001220703125</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9407605" lon="118.8261509">
+        <ele>50.1</ele>
+        <time>2023-02-24T07:50:41Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"20953"},{"key":"PCI","value":"178"},{"key":"ECI","value":"84112682(328565-42)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1309/19309"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1815.9/1720.9 MHz"},{"key":"RSSI","value":"-63"},{"key":"SINR","value":"-1.0"},{"key":"RSRP","value":"-95"},{"key":"RSRQ","value":"-13"}]</cellular>
+          <accuracy>15.106972694396973</accuracy>
+          <speed>23.95</speed>
+          <direction>333.1000061035156</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9411301" lon="118.8258799">
+        <ele>50.1</ele>
+        <time>2023-02-24T07:50:43Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"20953"},{"key":"PCI","value":"178"},{"key":"ECI","value":"84112682(328565-42)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1309/19309"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1815.9/1720.9 MHz"},{"key":"RSSI","value":"-63"},{"key":"SINR","value":"-1.0"},{"key":"RSRP","value":"-95"},{"key":"RSRQ","value":"-13"}]</cellular>
+          <accuracy>15.319781303405762</accuracy>
+          <speed>23.7</speed>
+          <direction>327.3900146484375</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9413121" lon="118.8257497">
+        <ele>50.1</ele>
+        <time>2023-02-24T07:50:50Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-57"},{"key":"SINR","value":"13.0"},{"key":"RSRP","value":"-87"},{"key":"RSRQ","value":"-9"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"}]</cellular>
+          <accuracy>16.622901916503906</accuracy>
+          <speed>23.62</speed>
+          <direction>330.6000061035156</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9423365" lon="118.8249648">
+        <ele>50.3</ele>
+        <time>2023-02-24T07:50:50Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-57"},{"key":"SINR","value":"13.0"},{"key":"RSRP","value":"-87"},{"key":"RSRQ","value":"-9"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"}]</cellular>
+          <accuracy>71.13351440429688</accuracy>
+          <speed>22.09</speed>
+          <direction>317.3900146484375</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9427481" lon="118.8246066">
+        <ele>50.5</ele>
+        <time>2023-02-24T07:50:52Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-57"},{"key":"SINR","value":"13.0"},{"key":"RSRP","value":"-87"},{"key":"RSRQ","value":"-9"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"}]</cellular>
+          <accuracy>95.89231872558594</accuracy>
+          <speed>23.54</speed>
+          <direction>314.5</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9421040" lon="118.8237699">
+        <ele>50.1</ele>
+        <time>2023-02-24T07:50:54Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-57"},{"key":"SINR","value":"13.0"},{"key":"RSRP","value":"-87"},{"key":"RSRQ","value":"-9"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"}]</cellular>
+          <accuracy>69.89340209960938</accuracy>
+          <speed>21.93</speed>
+          <direction>270.70001220703125</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9422030" lon="118.8234390">
+        <ele>50.6</ele>
+        <time>2023-02-24T07:50:56Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-57"},{"key":"SINR","value":"13.0"},{"key":"RSRP","value":"-87"},{"key":"RSRQ","value":"-9"}]</cellular>
+          <accuracy>93.15272521972656</accuracy>
+          <speed>20.12</speed>
+          <direction>264.3900146484375</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9395254" lon="118.8207735">
+        <ele>47.5</ele>
+        <time>2023-02-24T07:51:16Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-57"},{"key":"SINR","value":"13.0"},{"key":"RSRP","value":"-87"},{"key":"RSRQ","value":"-9"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"416"},{"key":"NR-CI","value":"42953752578(10486756-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"}]</cellular>
+          <accuracy>67.6537857055664</accuracy>
+          <speed>23.82</speed>
+          <direction>174.5</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9390454" lon="118.8207179">
+        <ele>40.5</ele>
+        <time>2023-02-24T07:51:18Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-57"},{"key":"SINR","value":"13.0"},{"key":"RSRP","value":"-87"},{"key":"RSRQ","value":"-9"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"637"},{"key":"NR-CI","value":"43219013634(10551517-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>54.20769119262695</accuracy>
+          <speed>24.14</speed>
+          <direction>163.38999938964844</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9386008" lon="118.8206605">
+        <ele>28.1</ele>
+        <time>2023-02-24T07:51:20Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-57"},{"key":"SINR","value":"13.0"},{"key":"RSRP","value":"-87"},{"key":"RSRQ","value":"-9"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"637"},{"key":"NR-CI","value":"43219013634(10551517-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>53.24332809448242</accuracy>
+          <speed>24.07</speed>
+          <direction>154.19000244140625</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9381747" lon="118.8207399">
+        <ele>17.8</ele>
+        <time>2023-02-24T07:51:23Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-57"},{"key":"SINR","value":"13.0"},{"key":"RSRP","value":"-87"},{"key":"RSRQ","value":"-9"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"637"},{"key":"NR-CI","value":"43219013634(10551517-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>47.22665786743164</accuracy>
+          <speed>24.1</speed>
+          <direction>145.10000610351562</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9377733" lon="118.8210060">
+        <ele>10.7</ele>
+        <time>2023-02-24T07:51:24Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-67"},{"key":"SINR","value":"6.0"},{"key":"RSRP","value":"-87"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"637"},{"key":"NR-CI","value":"43219013634(10551517-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>41.29823684692383</accuracy>
+          <speed>23.96</speed>
+          <direction>137.8000030517578</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9374793" lon="118.8213307">
+        <ele>5.9</ele>
+        <time>2023-02-24T07:51:26Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-67"},{"key":"SINR","value":"6.0"},{"key":"RSRP","value":"-87"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"637"},{"key":"NR-CI","value":"43219013634(10551517-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>35.058170318603516</accuracy>
+          <speed>24.07</speed>
+          <direction>129.3000030517578</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9372549" lon="118.8218228">
+        <ele>5.8</ele>
+        <time>2023-02-24T07:51:28Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-67"},{"key":"SINR","value":"6.0"},{"key":"RSRP","value":"-87"},{"key":"RSRQ","value":"-12"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"416"},{"key":"NR-CI","value":"42953752578(10486756-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>25.08045768737793</accuracy>
+          <speed>24.09</speed>
+          <direction>117.5</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9370738" lon="118.8223355">
+        <ele>2.8</ele>
+        <time>2023-02-24T07:51:30Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"416"},{"key":"NR-CI","value":"42953752578(10486756-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>22.574098587036133</accuracy>
+          <speed>24.06</speed>
+          <direction>108.30000305175781</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9369759" lon="118.8228304">
+        <ele>3.0</ele>
+        <time>2023-02-24T07:51:32Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"416"},{"key":"NR-CI","value":"42953752578(10486756-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>20.654441833496094</accuracy>
+          <speed>24.01</speed>
+          <direction>99.08999633789062</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9369392" lon="118.8233181">
+        <ele>4.6</ele>
+        <time>2023-02-24T07:51:34Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"638"},{"key":"NR-CI","value":"43219013635(10551517-3)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>19.24467658996582</accuracy>
+          <speed>24.0</speed>
+          <direction>92.19000244140625</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9370620" lon="118.8243255">
+        <ele>5.0</ele>
+        <time>2023-02-24T07:51:38Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"417"},{"key":"NR-CI","value":"42953752577(10486756-1)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>20.196062088012695</accuracy>
+          <speed>24.05</speed>
+          <direction>74.30000305175781</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9372196" lon="118.8248181">
+        <ele>5.4</ele>
+        <time>2023-02-24T07:51:40Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"638"},{"key":"NR-CI","value":"43219013635(10551517-3)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>16.370532989501953</accuracy>
+          <speed>23.69</speed>
+          <direction>63.70000076293945</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9374188" lon="118.8252616">
+        <ele>5.2</ele>
+        <time>2023-02-24T07:51:42Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"638"},{"key":"NR-CI","value":"43219013635(10551517-3)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>18.396791458129883</accuracy>
+          <speed>23.45</speed>
+          <direction>59.790000915527344</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9376204" lon="118.8257013">
+        <ele>5.6</ele>
+        <time>2023-02-24T07:51:44Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>29.33734893798828</accuracy>
+          <speed>23.54</speed>
+          <direction>61.20000076293945</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9378129" lon="118.8261001">
+        <ele>6.3</ele>
+        <time>2023-02-24T07:51:46Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>47.743377685546875</accuracy>
+          <speed>22.8</speed>
+          <direction>60.5</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9380399" lon="118.8264568">
+        <ele>6.5</ele>
+        <time>2023-02-24T07:51:48Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>69.04243469238281</accuracy>
+          <speed>22.12</speed>
+          <direction>56.790000915527344</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9382038" lon="118.8267470">
+        <ele>6.3</ele>
+        <time>2023-02-24T07:51:50Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>82.94193267822266</accuracy>
+          <speed>20.2</speed>
+          <direction>54.400001525878906</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9384168" lon="118.8271290">
+        <ele>5.9</ele>
+        <time>2023-02-24T07:51:52Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>96.3124008178711</accuracy>
+          <speed>20.26</speed>
+          <direction>53.900001525878906</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9326074" lon="118.8259017">
+        <ele>0.0</ele>
+        <time>2023-02-24T07:52:41Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>50.0</accuracy>
+          <speed>2.39</speed>
+          <direction>184.0</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9326074" lon="118.8259017">
+        <ele>0.0</ele>
+        <time>2023-02-24T07:52:43Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"416"},{"key":"NR-CI","value":"42953752578(10486756-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>50.0</accuracy>
+          <speed>2.39</speed>
+          <direction>191.0</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9326074" lon="118.8259017">
+        <ele>0.0</ele>
+        <time>2023-02-24T07:52:45Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"416"},{"key":"NR-CI","value":"42953752578(10486756-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>50.0</accuracy>
+          <speed>2.39</speed>
+          <direction>190.0</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9326074" lon="118.8259017">
+        <ele>0.0</ele>
+        <time>2023-02-24T07:52:47Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"416"},{"key":"NR-CI","value":"42953752578(10486756-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>50.0</accuracy>
+          <speed>1.78</speed>
+          <direction>190.0</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9326074" lon="118.8259017">
+        <ele>0.0</ele>
+        <time>2023-02-24T07:52:49Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"416"},{"key":"NR-CI","value":"42953752578(10486756-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>50.0</accuracy>
+          <speed>1.78</speed>
+          <direction>189.0</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9326074" lon="118.8259017">
+        <ele>0.0</ele>
+        <time>2023-02-24T07:52:51Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"416"},{"key":"NR-CI","value":"42953752578(10486756-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>50.0</accuracy>
+          <speed>1.78</speed>
+          <direction>189.0</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9326074" lon="118.8259017">
+        <ele>0.0</ele>
+        <time>2023-02-24T07:52:53Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"416"},{"key":"NR-CI","value":"42953752578(10486756-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>50.0</accuracy>
+          <speed>0.0</speed>
+          <direction>189.0</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9326074" lon="118.8259017">
+        <ele>0.0</ele>
+        <time>2023-02-24T07:52:57Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"416"},{"key":"NR-CI","value":"42953752578(10486756-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>50.0</accuracy>
+          <speed>0.0</speed>
+          <direction>189.0</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9326074" lon="118.8259017">
+        <ele>0.0</ele>
+        <time>2023-02-24T07:52:59Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"416"},{"key":"NR-CI","value":"42953752578(10486756-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>50.0</accuracy>
+          <speed>0.0</speed>
+          <direction>190.0</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9381178" lon="118.8266276">
+        <ele>1.3</ele>
+        <time>2023-02-24T07:53:09Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"416"},{"key":"NR-CI","value":"42953752578(10486756-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>83.18989562988281</accuracy>
+          <speed>18.59</speed>
+          <direction>64.9000015258789</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9381412" lon="118.8269194">
+        <ele>2.0</ele>
+        <time>2023-02-24T07:53:11Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"416"},{"key":"NR-CI","value":"42953752578(10486756-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>82.5210952758789</accuracy>
+          <speed>17.17</speed>
+          <direction>62.0</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9386230" lon="118.8265783">
+        <ele>3.4</ele>
+        <time>2023-02-24T07:53:13Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"416"},{"key":"NR-CI","value":"42953752578(10486756-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>82.54251861572266</accuracy>
+          <speed>14.4</speed>
+          <direction>29.790000915527344</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9388254" lon="118.8267116">
+        <ele>3.8</ele>
+        <time>2023-02-24T07:53:15Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"416"},{"key":"NR-CI","value":"42953752578(10486756-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>97.93189239501953</accuracy>
+          <speed>13.11</speed>
+          <direction>20.200000762939453</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9405745" lon="118.8211901">
+        <ele>37.7</ele>
+        <time>2023-02-24T07:53:44Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"416"},{"key":"NR-CI","value":"42953752578(10486756-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>67.78180694580078</accuracy>
+          <speed>24.92</speed>
+          <direction>218.3000030517578</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9382401" lon="118.8213161">
+        <ele>11.8</ele>
+        <time>2023-02-24T07:53:57Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"416"},{"key":"NR-CI","value":"42953752578(10486756-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>97.54824829101562</accuracy>
+          <speed>24.55</speed>
+          <direction>154.8000030517578</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9377343" lon="118.8211840">
+        <ele>14.7</ele>
+        <time>2023-02-24T07:53:59Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"416"},{"key":"NR-CI","value":"42953752578(10486756-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>81.42292022705078</accuracy>
+          <speed>24.46</speed>
+          <direction>149.5</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9373460" lon="118.8215500">
+        <ele>16.7</ele>
+        <time>2023-02-24T07:54:01Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"416"},{"key":"NR-CI","value":"42953752578(10486756-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>70.67901611328125</accuracy>
+          <speed>23.82</speed>
+          <direction>140.3000030517578</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9370330" lon="118.8218404">
+        <ele>18.5</ele>
+        <time>2023-02-24T07:54:03Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"416"},{"key":"NR-CI","value":"42953752578(10486756-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>75.81803894042969</accuracy>
+          <speed>22.54</speed>
+          <direction>131.5</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9367956" lon="118.8221908">
+        <ele>18.6</ele>
+        <time>2023-02-24T07:54:05Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"416"},{"key":"NR-CI","value":"42953752578(10486756-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>71.19676971435547</accuracy>
+          <speed>22.2</speed>
+          <direction>122.80000305175781</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9365953" lon="118.8226120">
+        <ele>19.0</ele>
+        <time>2023-02-24T07:54:07Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"416"},{"key":"NR-CI","value":"42953752578(10486756-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>74.94358825683594</accuracy>
+          <speed>22.52</speed>
+          <direction>114.19000244140625</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9364554" lon="118.8230561">
+        <ele>20.0</ele>
+        <time>2023-02-24T07:54:09Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"416"},{"key":"NR-CI","value":"42953752578(10486756-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>87.71161651611328</accuracy>
+          <speed>21.98</speed>
+          <direction>105.4000015258789</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9364300" lon="118.8235922">
+        <ele>19.3</ele>
+        <time>2023-02-24T07:54:11Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"416"},{"key":"NR-CI","value":"42953752578(10486756-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>84.66046905517578</accuracy>
+          <speed>21.21</speed>
+          <direction>95.4000015258789</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9367965" lon="118.8251296">
+        <ele>21.6</ele>
+        <time>2023-02-24T07:54:19Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"416"},{"key":"NR-CI","value":"42953752578(10486756-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>77.18841552734375</accuracy>
+          <speed>19.6</speed>
+          <direction>56.900001525878906</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9371231" lon="118.8255821">
+        <ele>24.2</ele>
+        <time>2023-02-24T07:54:21Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"416"},{"key":"NR-CI","value":"42953752578(10486756-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>71.86798858642578</accuracy>
+          <speed>21.97</speed>
+          <direction>47.09000015258789</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9374136" lon="118.8258267">
+        <ele>24.3</ele>
+        <time>2023-02-24T07:54:23Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>66.05470275878906</accuracy>
+          <speed>22.48</speed>
+          <direction>37.290000915527344</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9377609" lon="118.8260550">
+        <ele>26.1</ele>
+        <time>2023-02-24T07:54:25Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>63.03340530395508</accuracy>
+          <speed>23.02</speed>
+          <direction>27.790000915527344</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9381429" lon="118.8262184">
+        <ele>24.9</ele>
+        <time>2023-02-24T07:54:27Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>53.592437744140625</accuracy>
+          <speed>24.13</speed>
+          <direction>18.700000762939453</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9385883" lon="118.8263693">
+        <ele>24.8</ele>
+        <time>2023-02-24T07:54:29Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>57.825008392333984</accuracy>
+          <speed>24.63</speed>
+          <direction>9.6899995803833</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9389975" lon="118.8264344">
+        <ele>25.1</ele>
+        <time>2023-02-24T07:54:31Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>66.2951431274414</accuracy>
+          <speed>23.92</speed>
+          <direction>0.800000011920929</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9394692" lon="118.8264299">
+        <ele>24.0</ele>
+        <time>2023-02-24T07:54:33Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>65.53876495361328</accuracy>
+          <speed>24.55</speed>
+          <direction>352.20001220703125</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9399309" lon="118.8264228">
+        <ele>26.1</ele>
+        <time>2023-02-24T07:54:35Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>65.998291015625</accuracy>
+          <speed>24.4</speed>
+          <direction>343.8900146484375</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9402293" lon="118.8262603">
+        <ele>26.1</ele>
+        <time>2023-02-24T07:54:37Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>61.06781005859375</accuracy>
+          <speed>23.54</speed>
+          <direction>334.70001220703125</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9406331" lon="118.8260759">
+        <ele>27.1</ele>
+        <time>2023-02-24T07:54:39Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>62.15327453613281</accuracy>
+          <speed>23.65</speed>
+          <direction>326.5</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9409438" lon="118.8257961">
+        <ele>27.1</ele>
+        <time>2023-02-24T07:54:41Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>67.35869598388672</accuracy>
+          <speed>22.67</speed>
+          <direction>317.7900085449219</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9412079" lon="118.8254359">
+        <ele>31.7</ele>
+        <time>2023-02-24T07:54:43Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"416"},{"key":"NR-CI","value":"42953752578(10486756-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>63.16385269165039</accuracy>
+          <speed>22.12</speed>
+          <direction>308.7900085449219</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9414850" lon="118.8251003">
+        <ele>33.3</ele>
+        <time>2023-02-24T07:54:45Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"416"},{"key":"NR-CI","value":"42953752578(10486756-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>63.66459274291992</accuracy>
+          <speed>22.43</speed>
+          <direction>300.70001220703125</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9416962" lon="118.8246737">
+        <ele>32.5</ele>
+        <time>2023-02-24T07:54:47Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"416"},{"key":"NR-CI","value":"42953752578(10486756-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>61.984222412109375</accuracy>
+          <speed>22.32</speed>
+          <direction>291.5</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9417807" lon="118.8236031">
+        <ele>36.1</ele>
+        <time>2023-02-24T07:54:51Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"416"},{"key":"NR-CI","value":"42953752578(10486756-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>45.465274810791016</accuracy>
+          <speed>22.36</speed>
+          <direction>270.70001220703125</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9417932" lon="118.8231918">
+        <ele>42.2</ele>
+        <time>2023-02-24T07:54:53Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"416"},{"key":"NR-CI","value":"42953752578(10486756-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>44.131622314453125</accuracy>
+          <speed>21.57</speed>
+          <direction>261.8900146484375</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9416945" lon="118.8226742">
+        <ele>47.5</ele>
+        <time>2023-02-24T07:54:55Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"416"},{"key":"NR-CI","value":"42953752578(10486756-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>42.516780853271484</accuracy>
+          <speed>22.77</speed>
+          <direction>252.3000030517578</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9414901" lon="118.8221280">
+        <ele>53.5</ele>
+        <time>2023-02-24T07:54:57Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>42.6674919128418</accuracy>
+          <speed>23.34</speed>
+          <direction>242.0</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9412578" lon="118.8217021">
+        <ele>54.4</ele>
+        <time>2023-02-24T07:54:59Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>41.04511260986328</accuracy>
+          <speed>23.62</speed>
+          <direction>232.5</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9409734" lon="118.8213188">
+        <ele>56.1</ele>
+        <time>2023-02-24T07:55:01Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>38.01657485961914</accuracy>
+          <speed>23.92</speed>
+          <direction>223.38999938964844</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9406395" lon="118.8209752">
+        <ele>57.2</ele>
+        <time>2023-02-24T07:55:03Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>39.57220458984375</accuracy>
+          <speed>23.78</speed>
+          <direction>214.60000610351562</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9403303" lon="118.8207319">
+        <ele>56.8</ele>
+        <time>2023-02-24T07:55:05Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>39.19881057739258</accuracy>
+          <speed>24.11</speed>
+          <direction>205.5</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9399511" lon="118.8206128">
+        <ele>57.0</ele>
+        <time>2023-02-24T07:55:07Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>40.792579650878906</accuracy>
+          <speed>24.45</speed>
+          <direction>195.8000030517578</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9394405" lon="118.8203757">
+        <ele>62.8</ele>
+        <time>2023-02-24T07:55:09Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>43.18092346191406</accuracy>
+          <speed>25.43</speed>
+          <direction>187.0</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9390738" lon="118.8203748">
+        <ele>64.3</ele>
+        <time>2023-02-24T07:55:11Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>46.04813766479492</accuracy>
+          <speed>23.59</speed>
+          <direction>177.38999938964844</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9386960" lon="118.8203891">
+        <ele>63.6</ele>
+        <time>2023-02-24T07:55:13Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>46.38652801513672</accuracy>
+          <speed>23.36</speed>
+          <direction>169.10000610351562</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9383285" lon="118.8205535">
+        <ele>64.4</ele>
+        <time>2023-02-24T07:55:15Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>48.91914367675781</accuracy>
+          <speed>23.55</speed>
+          <direction>159.60000610351562</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9380084" lon="118.8208788">
+        <ele>65.5</ele>
+        <time>2023-02-24T07:55:17Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>47.005348205566406</accuracy>
+          <speed>23.45</speed>
+          <direction>149.3000030517578</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9376595" lon="118.8211652">
+        <ele>66.6</ele>
+        <time>2023-02-24T07:55:19Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>49.34530258178711</accuracy>
+          <speed>23.79</speed>
+          <direction>140.38999938964844</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9371297" lon="118.8219124">
+        <ele>68.8</ele>
+        <time>2023-02-24T07:55:23Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>53.61911392211914</accuracy>
+          <speed>23.84</speed>
+          <direction>122.19000244140625</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9369122" lon="118.8223164">
+        <ele>69.0</ele>
+        <time>2023-02-24T07:55:25Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>53.31714630126953</accuracy>
+          <speed>22.84</speed>
+          <direction>113.58999633789062</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9367755" lon="118.8228054">
+        <ele>70.3</ele>
+        <time>2023-02-24T07:55:27Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>53.31110763549805</accuracy>
+          <speed>22.86</speed>
+          <direction>104.69000244140625</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9367231" lon="118.8233435">
+        <ele>70.1</ele>
+        <time>2023-02-24T07:55:29Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>52.02139663696289</accuracy>
+          <speed>22.28</speed>
+          <direction>94.58999633789062</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9367368" lon="118.8238942">
+        <ele>68.8</ele>
+        <time>2023-02-24T07:55:31Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>49.59965133666992</accuracy>
+          <speed>22.04</speed>
+          <direction>84.58999633789062</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9367542" lon="118.8242749">
+        <ele>72.2</ele>
+        <time>2023-02-24T07:55:33Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>49.543312072753906</accuracy>
+          <speed>22.17</speed>
+          <direction>76.69000244140625</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9368795" lon="118.8247121">
+        <ele>71.7</ele>
+        <time>2023-02-24T07:55:35Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>50.0645751953125</accuracy>
+          <speed>22.34</speed>
+          <direction>68.0</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9370758" lon="118.8251241">
+        <ele>72.2</ele>
+        <time>2023-02-24T07:55:37Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>47.434593200683594</accuracy>
+          <speed>22.27</speed>
+          <direction>58.5</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9373517" lon="118.8256057">
+        <ele>72.8</ele>
+        <time>2023-02-24T07:55:39Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>45.124107360839844</accuracy>
+          <speed>22.92</speed>
+          <direction>49.0</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9376033" lon="118.8259116">
+        <ele>74.4</ele>
+        <time>2023-02-24T07:55:41Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>44.64084243774414</accuracy>
+          <speed>21.85</speed>
+          <direction>40.5</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9378842" lon="118.8261264">
+        <ele>72.6</ele>
+        <time>2023-02-24T07:55:43Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>49.444740295410156</accuracy>
+          <speed>20.9</speed>
+          <direction>31.600000381469727</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9384315" lon="118.8263713">
+        <ele>75.3</ele>
+        <time>2023-02-24T07:55:45Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>47.16170883178711</accuracy>
+          <speed>24.96</speed>
+          <direction>20.600000381469727</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9388661" lon="118.8265165">
+        <ele>74.6</ele>
+        <time>2023-02-24T07:55:47Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>50.907588958740234</accuracy>
+          <speed>24.52</speed>
+          <direction>11.390000343322754</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9392382" lon="118.8265577">
+        <ele>75.6</ele>
+        <time>2023-02-24T07:55:49Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>52.3031120300293</accuracy>
+          <speed>23.53</speed>
+          <direction>1.8899999856948853</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9396557" lon="118.8265082">
+        <ele>77.1</ele>
+        <time>2023-02-24T07:55:51Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"350"},{"key":"NR-CI","value":"42951421954(10486187-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR","value":"-1.0"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>54.923526763916016</accuracy>
+          <speed>23.61</speed>
+          <direction>352.70001220703125</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9326665" lon="118.8259127">
+        <ele>0.0</ele>
+        <time>2023-02-24T08:00:14Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"638"},{"key":"NR-CI","value":"43219013635(10551517-3)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>29.0</accuracy>
+          <speed>0.0</speed>
+          <direction>0.0</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9326665" lon="118.8259127">
+        <ele>0.0</ele>
+        <time>2023-02-24T08:00:15Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"416"},{"key":"NR-CI","value":"42953752578(10486756-2)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>29.0</accuracy>
+          <speed>0.0</speed>
+          <direction>191.0</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9326665" lon="118.8259127">
+        <ele>0.0</ele>
+        <time>2023-02-24T08:00:17Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"638"},{"key":"NR-CI","value":"43219013635(10551517-3)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>29.0</accuracy>
+          <speed>0.0</speed>
+          <direction>185.0</direction>
+        </extensions>
+      </trkpt>
+      <trkpt lat="31.9326665" lon="118.8259127">
+        <ele>0.0</ele>
+        <time>2023-02-24T08:00:19Z</time>
+        <extensions>
+          <cellular>[{"key":"SIM","value":"1"},{"key":"运营商","value":"中国电信"},{"key":"小区类型","value":"LTE"},{"key":"TAC","value":"16475"},{"key":"PCI","value":"439"},{"key":"ECI","value":"125944754(491971-178)"},{"key":"Band Width","value":"20 MHz"},{"key":"EARFCN","value":"1850/19850"},{"key":"BAND","value":"3 FDD"},{"key":"FREQ","value":"1870/1775 MHz"},{"key":"RSSI","value":"-65"},{"key":"SINR","value":"3.0"},{"key":"RSRP","value":"-89"},{"key":"RSRQ","value":"-11"},{"key":"SIM","value":"2"},{"key":"运营商","value":"中国移动"},{"key":"小区类型","value":"NR"},{"key":"NR-PCI","value":"638"},{"key":"NR-CI","value":"43219013635(10551517-3)"},{"key":"NR-ARFCN","value":"504990"},{"key":"NR-FREQ","value":"2525 MHz"},{"key":"NR-BAND","value":"41/90 TDD"},{"key":"NR-TAC","value":"1048626"},{"key":"SINR_2","value":"32"},{"key":"RSRP_2","value":"-101"},{"key":"RSRQ_2","value":"-13"}]</cellular>
+          <accuracy>29.0</accuracy>
+          <speed>0.0</speed>
+          <direction>185.0</direction>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

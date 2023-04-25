@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:globalmapper="https://www.bluemarblegeo.com/globalmapper">
+<Document>
+  <!-- Begin Style Definitions -->
+  <Style id="area1">
+    <LineStyle>
+      <color>FFF3F3F3</color>
+      <width>2</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>BF000080</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+    <IconStyle><Icon></Icon></IconStyle>
+  </Style>
+  <Folder>
+    <name>SM Left</name>
+    <description>SM Left</description>
+    <Placemark>
+      <TimeStamp>
+        <when>2022-07-16T13:43:38.402Z</when>
+      </TimeStamp>
+      <description><![CDATA[Unknown Area Type<BR><BR><B>NAME</B> = 2022-Jul-16 13:43:38.402<BR><B>KML_STYLE</B> = style1<BR><B>TimeStamp</B> = 2022-07-16T13:43:38.402Z<BR><B>AreaCovered</B> = 100<BR><B>Azimuth</B> = 64.264282142<BR><B>CoverageId</B> = 0<BR><B>Frame_End</B> = 377<BR><B>Frame_Start</B> = 377<BR><B>Frames</B> = 1<BR><B>Frequencies</B> = 5.4<BR><B>GSD_Azimuth</B> = 3.3379358356<BR><B>GSD_Range</B> = 3.3379358356<BR><B>Length</B> = 7.1507691033<BR><B>LookAngle</B> = 31.276<BR><B>Pass</B> = ASCENDING<BR><B>Polarization</B> = VV<BR><B>Range</B> = 609.7524801796<BR><B>Region</B> = Simulation_20220712_crash_zone.kmz.Р·РѕРЅР°_РїР°РґРµРЅРёСЏ<BR><B>Satellite</B> = HISEA-1<BR><B>Sensor</B> = SM Left<BR><B>SwathArea</B> = 143.2984321575<BR><B>Width</B> = 19.9370302901<BR><B>Date</B> = 16-Jul-2022<BR><B>Start</B> = 2022-07-16T13:43:38.402Z<BR><B>End</B> = 2022-07-16T13:43:39.402Z<BR><B>Duration</B> = 1<BR><B>tessellate</B> = 1<BR><B>gx_balloonVisibility</B> = 0]]></description>
+      <name>kml-test</name>
+      <styleUrl>#area1</styleUrl>
+      <MultiGeometry>
+      <Point>
+      <coordinates>130.6689429268,65.0216930000,0</coordinates>
+      </Point>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              130.8961080000,65.0324320000,0
+              130.8277860000,65.0896230000,0
+              130.4468610000,65.0119870000,0
+              130.5100070000,64.9537630000,0
+              130.8961080000,65.0324320000,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</Document>
+</kml>
